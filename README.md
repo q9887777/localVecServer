@@ -2,8 +2,11 @@
 
 ## 项目所有模型需要自己去hugging face 下载!!!!!!
 [NousResearch_Hermes-3-Llama-3.2-3B] https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B
+
 [Qwen2.5-3B-Instruct] https://huggingface.co/Qwen/Qwen2.5-3B-Instruct
+
 [shibing624_text2vec-base-chinese] https://huggingface.co/shibing624/text2vec-base-chinese
+
 项目根目录包含以下内容：
 - README.md: 项目的说明文档。
 - faiss_index/
