@@ -20,7 +20,5 @@ python版本 3.12.5
 安装所用库: pip install -r requirements.txt 
 
 ## 如果有用可以请我喝咖啡.非常感谢!!
-
- <img src="https://shitu-query-bj.bj.bcebos.com/2025-01-15/10/631c947a23d31c53?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2025-01-15T02%3A39%3A39Z%2F300%2Fhost%2F3d638e5ce7e9f4d1d67064bf9dbb747feb8a8de9f15752ab6da7722d25b03bb3" width="300" height="400"/>
- <img src="https://shitu-query-bj.bj.bcebos.com/2025-01-15/10/7c4d57b1b22f3c7d?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2025-01-15T02%3A40%3A09Z%2F300%2Fhost%2Fb514f674b321f80e88d38ca2b5b0eb299b1a08f18f10cfcef56ab569aa426c43" width="300" height="400"/>
-
+ <img src="./assets/wx.jpg" width="300" height="400"/>
+ <img src="./assets/zfb.jpg" width="300" height="400"/>
